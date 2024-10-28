@@ -1,5 +1,4 @@
-# Finance Manager Web Application Project ***Teeam1***
-       
+# Finance Manager Web Application Project ***Team1***       
 
 ## 프로젝트 개요
 이 프로젝트는 Django와 Django REST Framework로 사용자 관리, 계좌 관리, 거래 내역 관리, 
@@ -13,3 +12,7 @@
 - **자동화 및 스케줄링**: Celery, Redis
 - **기타 도구**: ERDCloud (ERD 설계), Postman (API 테스트)
 
+## 팀원
+* 권은혜
+* 김로하
+* 조민성
