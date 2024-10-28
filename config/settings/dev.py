@@ -12,5 +12,8 @@ DATABASES = {
         'PASSWORD': '1111',
         'HOST': 'localhost',
         'PORT': '5432',
+        'OPTIONS': {
+            'client_encoding': 'UTF8',
+        },
     }
 }
