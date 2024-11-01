@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>이메일 인증</title>
+</head>
+<body>
+    <h1>안녕하세요, {{ user.username }}님!</h1>
+    <p>회원가입해 주셔서 감사합니다. 아래 링크를 클릭하여 이메일 주소를 인증해주세요:</p>
+    <a href="{{ verification_link }}">이메일 인증하기</a>
+    <p>이 링크는 24시간 동안 유효합니다.</p>
+</body>
+</html> 
